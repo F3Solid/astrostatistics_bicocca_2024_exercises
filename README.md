@@ -2,5 +2,5 @@
 Original material at: https://github.com/dgerosa/astrostatistics_bicocca_2024
 
 ## L02 Probability
-+ [Monty Hall Problem](url)
-+ [PDF of the log](url)
++ [Monty Hall Problem](L02/monty-hall-problem.ipynb)
++ [PDF of the log](L02/pdf_of_the_log.ipynb)
