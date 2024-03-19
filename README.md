@@ -12,3 +12,6 @@ Original material at: https://github.com/dgerosa/astrostatistics_bicocca_2024
 
 ## [L04](https://github.com/dgerosa/astrostatistics_bicocca_2024/blob/main/lectures/L04_probability.ipynb) Probability
 + [Cloning Quasars](https://github.com/F3Solid/astrostatistics_bicocca_2024_exercises/blob/main/L04/cloning_quasars.ipynb) (Upsampling PDF)
+
+## [L05](https://github.com/dgerosa/astrostatistics_bicocca_2024/blob/main/lectures/L05_frequentist.ipynb) Frequentist Statistical Inference
++ [Position of a Quasars]() (Maximum Likelihood Estimation)
