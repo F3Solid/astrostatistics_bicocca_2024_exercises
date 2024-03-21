@@ -15,3 +15,6 @@ Original material at: https://github.com/dgerosa/astrostatistics_bicocca_2024
 
 ## [L05](https://github.com/dgerosa/astrostatistics_bicocca_2024/blob/main/lectures/L05_frequentist.ipynb) Frequentist Statistical Inference
 + [Position of a Quasars](https://github.com/F3Solid/astrostatistics_bicocca_2024_exercises/blob/main/L05/position_of_a_quasar.ipynb) (Maximum Likelihood Estimation)
+
+## [L06](https://github.com/dgerosa/astrostatistics_bicocca_2024/blob/main/lectures/L06_frequentist.ipynb) Frequentist Statistical Inference
++ [BH Binary Formation](https://github.com/F3Solid/astrostatistics_bicocca_2024_exercises/blob/main/L06/bh_binary_formation.ipynb) (Gaussian mixtures with sklearn)
