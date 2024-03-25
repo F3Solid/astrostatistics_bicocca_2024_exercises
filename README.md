@@ -18,3 +18,6 @@ Original material at: https://github.com/dgerosa/astrostatistics_bicocca_2024
 
 ## [L06](https://github.com/dgerosa/astrostatistics_bicocca_2024/blob/main/lectures/L06_frequentist.ipynb) Frequentist Statistical Inference
 + [BH Binary Formation](https://github.com/F3Solid/astrostatistics_bicocca_2024_exercises/blob/main/L06/bh_binary_formation.ipynb) (Gaussian mixtures with sklearn)
+
+## [L07](https://github.com/dgerosa/astrostatistics_bicocca_2024/blob/main/lectures/L07_frequentist.ipynb) Frequentist Statistical Inference
++ [The Irreducible Mass of BH](https://github.com/F3Solid/astrostatistics_bicocca_2024_exercises/blob/main/L07/the_irreducible_mass_of_bh.ipynb) (Kernel Density Estimation)
