@@ -24,4 +24,5 @@ Original material at: https://github.com/dgerosa/astrostatistics_bicocca_2024
 
 ## [L10](https://github.com/dgerosa/astrostatistics_bicocca_2024/blob/main/lectures/L10_bayesian.ipynb) Bayesian Statistical Inference
 + [Planning a telescope observation](https://github.com/F3Solid/astrostatistics_bicocca_2024_exercises/blob/main/L10/planning_telescope_observation.ipynb) (Markov Chain)
++ [Stock market analogy](https://github.com/F3Solid/astrostatistics_bicocca_2024_exercises/blob/main/L10/stock_market_analogy.ipynb) (Markov Chain)
 
