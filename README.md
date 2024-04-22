@@ -34,6 +34,6 @@ Original material at: https://github.com/dgerosa/astrostatistics_bicocca_2024
   + And finally the [ArviZ](https://python.arviz.org/en/stable/api/index.html#) documentation
 
 ## [L12](https://github.com/dgerosa/astrostatistics_bicocca_2024/blob/main/lectures/L12_bayesian.ipynb) _Bayesian_ Statistical Inference
-+ [The transient universe](https://github.com/F3Solid/astrostatistics_bicocca_2024_exercises/blob/main/L12/transient_universe.ipynb)
++ [The transient universe](https://github.com/F3Solid/astrostatistics_bicocca_2024_exercises/blob/main/L12/transient_universe.ipynb) (Nested sampling)
   + Here is an overview of the [dynesty](https://dynesty.readthedocs.io/en/stable/index.html) package
   + Like for the former exercise it _might be helpful_ taking a look to the [official documentation](https://dynesty.readthedocs.io/en/stable/api.html)
