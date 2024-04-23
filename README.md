@@ -18,9 +18,11 @@ Original material at: https://github.com/dgerosa/astrostatistics_bicocca_2024
 
 ## [L06](https://github.com/dgerosa/astrostatistics_bicocca_2024/blob/main/lectures/L06_frequentist.ipynb) _Frequentist_ Statistical Inference
 + [BH Binary Formation](https://github.com/F3Solid/astrostatistics_bicocca_2024_exercises/blob/main/L06/bh_binary_formation.ipynb) (Gaussian mixtures with sklearn)
+  + Scikit-learn _Gaussian Mixture_ [official documentation](https://scikit-learn.org/stable/modules/generated/sklearn.mixture.GaussianMixture.html)
 
 ## [L07](https://github.com/dgerosa/astrostatistics_bicocca_2024/blob/main/lectures/L07_frequentist.ipynb) _Frequentist_ Statistical Inference
 + [The Irreducible Mass of BH](https://github.com/F3Solid/astrostatistics_bicocca_2024_exercises/blob/main/L07/the_irreducible_mass_of_bh.ipynb) (Kernel Density Estimation)
+  + Scikit-learn _Kernel Density Estimation_ [official documentation](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KernelDensity.html)
 
 ## [L10](https://github.com/dgerosa/astrostatistics_bicocca_2024/blob/main/lectures/L10_bayesian.ipynb) _Bayesian_ Statistical Inference
 + [Planning a telescope observation](https://github.com/F3Solid/astrostatistics_bicocca_2024_exercises/blob/main/L10/planning_telescope_observation.ipynb) (Markov Chain)
