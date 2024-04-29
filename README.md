@@ -18,11 +18,11 @@ Original material at: https://github.com/dgerosa/astrostatistics_bicocca_2024
 
 ## [L06](https://github.com/dgerosa/astrostatistics_bicocca_2024/blob/main/lectures/L06_frequentist.ipynb) _Frequentist_ Statistical Inference
 + [BH Binary Formation](https://github.com/F3Solid/astrostatistics_bicocca_2024_exercises/blob/main/L06/bh_binary_formation.ipynb) (Gaussian mixtures with sklearn)
-  + Scikit-learn _Gaussian Mixture_ [official documentation](https://scikit-learn.org/stable/modules/generated/sklearn.mixture.GaussianMixture.html)
+  + Scikit-learn [_Gaussian Mixture_](https://scikit-learn.org/stable/modules/generated/sklearn.mixture.GaussianMixture.html)
 
 ## [L07](https://github.com/dgerosa/astrostatistics_bicocca_2024/blob/main/lectures/L07_frequentist.ipynb) _Frequentist_ Statistical Inference
 + [The Irreducible Mass of BH](https://github.com/F3Solid/astrostatistics_bicocca_2024_exercises/blob/main/L07/the_irreducible_mass_of_bh.ipynb) (Kernel Density Estimation)
-  + Scikit-learn _Kernel Density Estimation_ [official documentation](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KernelDensity.html)
+  + Scikit-learn [_Kernel Density Estimation_](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KernelDensity.html)
 
 ## [L10](https://github.com/dgerosa/astrostatistics_bicocca_2024/blob/main/lectures/L10_bayesian.ipynb) _Bayesian_ Statistical Inference
 + [Planning a telescope observation](https://github.com/F3Solid/astrostatistics_bicocca_2024_exercises/blob/main/L10/planning_telescope_observation.ipynb) (Markov Chain)
@@ -39,3 +39,10 @@ Original material at: https://github.com/dgerosa/astrostatistics_bicocca_2024
 + [The transient universe](https://github.com/F3Solid/astrostatistics_bicocca_2024_exercises/blob/main/L12/transient_universe.ipynb) (Nested sampling)
   + Here is an overview of the [dynesty](https://dynesty.readthedocs.io/en/stable/index.html) package
   + Like for the former exercise it _might be helpful_ taking a look to the [official documentation](https://dynesty.readthedocs.io/en/stable/api.html)
+
+## [L13](https://github.com/dgerosa/astrostatistics_bicocca_2024/blob/main/lectures/L13_introduction.ipynb) Data Mining & Machine Learning
+Github viewer might have some problem in visualizing some output. Use this [link](https://nbviewer.org/github/dgerosa/astrostatistics_bicocca_2024/blob/main/lectures/L13_introduction.ipynb) for the full notebook.
++ [Handwritten digits](https://github.com/F3Solid/astrostatistics_bicocca_2024_exercises/blob/main/L13/handwritten_digits.ipynb) (ML techniques)
+  + Scikit-learn [_Isomap_](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.Isomap.html)
+  + Scikit-learn [_Logistic Regression_](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
+  + Search for other specific functions in the [official documentation](https://scikit-learn.org/stable/modules/classes.html)
