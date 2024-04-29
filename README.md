@@ -40,9 +40,9 @@ Original material at: https://github.com/dgerosa/astrostatistics_bicocca_2024
   + Here is an overview of the [dynesty](https://dynesty.readthedocs.io/en/stable/index.html) package
   + Like for the former exercise it _might be helpful_ taking a look to the [official documentation](https://dynesty.readthedocs.io/en/stable/api.html)
 
-## [L13](https://github.com/dgerosa/astrostatistics_bicocca_2024/blob/main/lectures/L13_introduction.ipynb) Data Mining & Machine Learning - [link](https://nbviewer.org/github/dgerosa/astrostatistics_bicocca_2024/blob/main/lectures/L13_introduction.ipynb)
-Github viewer might have some problem in visualizing some output. Use the alternative links for the full notebook.
-+ [Handwritten digits](https://github.com/F3Solid/astrostatistics_bicocca_2024_exercises/blob/main/L13/handwritten_digits.ipynb) (ML techniques) - [link](https://nbviewer.org/github/F3Solid/astrostatistics_bicocca_2024_exercises/blob/main/L13/handwritten_digits.ipynb)
+## [L13](https://github.com/dgerosa/astrostatistics_bicocca_2024/blob/main/lectures/L13_introduction.ipynb) Data Mining & Machine Learning
+Github viewer might have some problem in visualizing some output. Use [nbviewer](https://nbviewer.org/) to avoid the problem.
++ [Handwritten digits](https://github.com/F3Solid/astrostatistics_bicocca_2024_exercises/blob/main/L13/handwritten_digits.ipynb) (ML techniques)
   + Scikit-learn [_Isomap_](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.Isomap.html)
   + Scikit-learn [_Logistic Regression_](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
   + Search for other specific functions in the [official documentation](https://scikit-learn.org/stable/modules/classes.html)
