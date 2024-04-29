@@ -41,7 +41,7 @@ Original material at: https://github.com/dgerosa/astrostatistics_bicocca_2024
   + Like for the former exercise it _might be helpful_ taking a look to the [official documentation](https://dynesty.readthedocs.io/en/stable/api.html)
 
 ## [L13](https://github.com/dgerosa/astrostatistics_bicocca_2024/blob/main/lectures/L13_introduction.ipynb) Data Mining & Machine Learning
-Github viewer might have some problem in visualizing Scikit-learn outputs. Use [nbviewer](https://nbviewer.org/) to avoid the problem.
+Github viewer might have some problem at visualizing Scikit-learn outputs. Use [nbviewer](https://nbviewer.org/) to avoid the problem.
 + [Handwritten digits](https://github.com/F3Solid/astrostatistics_bicocca_2024_exercises/blob/main/L13/handwritten_digits.ipynb) (ML techniques)
   + Scikit-learn [_Isomap_](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.Isomap.html)
   + Scikit-learn [_Logistic Regression_](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
