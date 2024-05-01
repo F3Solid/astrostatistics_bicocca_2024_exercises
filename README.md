@@ -1,6 +1,8 @@
 # Repository for Astrostatistics and Machine Learning Course (2024)
 Original material at: https://github.com/dgerosa/astrostatistics_bicocca_2024
 
+Github viewer might have some problem at visualizing some outputs in some notebooks. If this happens use [nbviewer](https://nbviewer.org/) to avoid the problem. This might be the case for Scikit-learn outputs.
+
 ## [L02](https://github.com/dgerosa/astrostatistics_bicocca_2024/blob/main/lectures/L02_probability.ipynb) Probability
 + [Monty Hall Problem](L02/monty-hall-problem.ipynb)
   + Mathematical solution at this [link](https://math.stackexchange.com/questions/608957/monty-hall-problem-extended)
@@ -41,8 +43,12 @@ Original material at: https://github.com/dgerosa/astrostatistics_bicocca_2024
   + Like for the former exercise it _might be helpful_ taking a look to the [official documentation](https://dynesty.readthedocs.io/en/stable/api.html)
 
 ## [L13](https://github.com/dgerosa/astrostatistics_bicocca_2024/blob/main/lectures/L13_introduction.ipynb) Data Mining & Machine Learning
-Github viewer might have some problem at visualizing Scikit-learn outputs. Use [nbviewer](https://nbviewer.org/) to avoid the problem.
 + [Handwritten digits](https://github.com/F3Solid/astrostatistics_bicocca_2024_exercises/blob/main/L13/handwritten_digits.ipynb) (ML techniques)
   + Scikit-learn [_Isomap_](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.Isomap.html)
   + Scikit-learn [_Logistic Regression_](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
+  + Search for other specific functions in the [official documentation](https://scikit-learn.org/stable/modules/classes.html)
+
+## [L14](https://github.com/dgerosa/astrostatistics_bicocca_2024/blob/main/lectures/L14_clustering.ipynb) Clustering
+  + [Gamma Ray Bursts]()
+  + Scikit-learn [_Clustering_](https://scikit-learn.org/stable/modules/clustering.html) user guide
   + Search for other specific functions in the [official documentation](https://scikit-learn.org/stable/modules/classes.html)
