@@ -49,6 +49,6 @@ Github viewer might have some problem at visualizing some outputs in some notebo
   + Search for other specific functions in the [official documentation](https://scikit-learn.org/stable/modules/classes.html)
 
 ## [L14](https://github.com/dgerosa/astrostatistics_bicocca_2024/blob/main/lectures/L14_clustering.ipynb) Clustering
-+ [Gamma Ray Bursts](https://github.com/F3Solid/astrostatistics_bicocca_2024_exercises/blob/main/L14/gamma_ray_bursts.ipynb)
++ [Gamma Ray Bursts](https://github.com/F3Solid/astrostatistics_bicocca_2024_exercises/blob/main/L14/gamma_ray_bursts.ipynb) (Clustering and free exploration)
   + Scikit-learn [_Clustering_](https://scikit-learn.org/stable/modules/clustering.html) user guide
   + Search for other specific functions in the [official documentation](https://scikit-learn.org/stable/modules/classes.html)
