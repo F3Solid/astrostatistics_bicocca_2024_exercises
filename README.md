@@ -52,3 +52,8 @@ Github viewer might have some problem at visualizing some outputs in some notebo
 + [Gamma Ray Bursts](https://github.com/F3Solid/astrostatistics_bicocca_2024_exercises/blob/main/L14/gamma_ray_bursts.ipynb) (Clustering and free exploration)
   + Scikit-learn [_Clustering_](https://scikit-learn.org/stable/modules/clustering.html) user guide
   + Search for other specific functions in the [official documentation](https://scikit-learn.org/stable/modules/classes.html)
+
+## [L15](https://github.com/dgerosa/astrostatistics_bicocca_2024/blob/main/lectures/L15_dimensionality.ipynb) Dimensionality Reduction
++ [HR diagram](https://github.com/F3Solid/astrostatistics_bicocca_2024_exercises/blob/main/L15/HR_diagram.ipynb) (PCA)
+  + Scikit-learn [_PCA_](https://scikit-learn.org/stable/modules/decomposition.html#principal-component-analysis-pca)
+  + Scikit-learn [_LabelEncoder_](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html#sklearn.preprocessing.LabelEncoder)
