@@ -57,3 +57,4 @@ Github viewer might have some problem at visualizing some outputs in some notebo
 + [HR diagram](https://github.com/F3Solid/astrostatistics_bicocca_2024_exercises/blob/main/L15/HR_diagram.ipynb) (PCA)
   + Scikit-learn [_PCA_](https://scikit-learn.org/stable/modules/decomposition.html#principal-component-analysis-pca) user guide
   + Scikit-learn [_LabelEncoder_](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html#sklearn.preprocessing.LabelEncoder)
+  + Scikit-learn [_StandardScaler_](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html)
