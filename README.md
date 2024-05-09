@@ -45,16 +45,22 @@ Github viewer might have some problem at visualizing some outputs in some notebo
 ## [L13](https://github.com/dgerosa/astrostatistics_bicocca_2024/blob/main/lectures/L13_introduction.ipynb) Data Mining & Machine Learning
 + [Handwritten digits](https://github.com/F3Solid/astrostatistics_bicocca_2024_exercises/blob/main/L13/handwritten_digits.ipynb) (ML techniques)
   + Scikit-learn [_Isomap_](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.Isomap.html)
-  + Scikit-learn [_Logistic Regression_](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
-  + Search for other specific functions in the [official documentation](https://scikit-learn.org/stable/modules/classes.html)
+  + Scikit-learn [_LogisticRegression_](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
+  + Search for other specific functions in the [documentation](https://scikit-learn.org/stable/modules/classes.html)
 
 ## [L14](https://github.com/dgerosa/astrostatistics_bicocca_2024/blob/main/lectures/L14_clustering.ipynb) Clustering
 + [Gamma Ray Bursts](https://github.com/F3Solid/astrostatistics_bicocca_2024_exercises/blob/main/L14/gamma_ray_bursts.ipynb) (Clustering and free exploration)
   + Scikit-learn [_Clustering_](https://scikit-learn.org/stable/modules/clustering.html) user guide
-  + Search for other specific functions in the [official documentation](https://scikit-learn.org/stable/modules/classes.html)
+  + Search for other specific functions in the [documentation](https://scikit-learn.org/stable/modules/classes.html)
 
 ## [L15](https://github.com/dgerosa/astrostatistics_bicocca_2024/blob/main/lectures/L15_dimensionality.ipynb) Dimensionality Reduction
 + [HR diagram](https://github.com/F3Solid/astrostatistics_bicocca_2024_exercises/blob/main/L15/HR_diagram.ipynb) (PCA)
   + Scikit-learn [_PCA_](https://scikit-learn.org/stable/modules/decomposition.html#principal-component-analysis-pca) user guide
   + Scikit-learn [_LabelEncoder_](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html#sklearn.preprocessing.LabelEncoder)
   + Scikit-learn [_StandardScaler_](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html)
+ 
+## [L17](https://github.com/dgerosa/astrostatistics_bicocca_2024/blob/main/lectures/L17_regression.ipynb) Regression
++ [Supernova distances](https://github.com/F3Solid/astrostatistics_bicocca_2024_exercises/blob/main/L17/supernova_distances.ipynb) (Regression techniques)
+  + Scikit-learn [_learning_curve_](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.learning_curve.html#sklearn.model_selection.learning_curve)
+  + Scikit-learn [scoring](https://scikit-learn.org/stable/modules/model_evaluation.html#the-scoring-parameter-defining-model-evaluation-rules) user guide
+  + [AstroML](https://www.astroml.org/modules/classes.html) documentation for regression functions
