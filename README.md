@@ -64,3 +64,7 @@ Github viewer might have some problem at visualizing some outputs in some notebo
   + Scikit-learn [_learning_curve_](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.learning_curve.html#sklearn.model_selection.learning_curve)
   + Scikit-learn [scoring](https://scikit-learn.org/stable/modules/model_evaluation.html#the-scoring-parameter-defining-model-evaluation-rules) user guide
   + [AstroML](https://www.astroml.org/modules/classes.html) documentation for regression functions
+
+## [L18](https://github.com/dgerosa/astrostatistics_bicocca_2024/blob/main/lectures/L18_regression.ipynb) Regression
++ [Supernova distances]() (GPR)
+  + Scikit-learn [GaussianProcessRegressor](https://scikit-learn.org/stable/modules/gaussian_process.html#) user guide
