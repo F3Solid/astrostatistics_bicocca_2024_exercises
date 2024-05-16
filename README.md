@@ -68,3 +68,4 @@ Github viewer might have some problem at visualizing some outputs in some notebo
 ## [L18](https://github.com/dgerosa/astrostatistics_bicocca_2024/blob/main/lectures/L18_regression.ipynb) Regression
 + [Supernova distances](https://github.com/F3Solid/astrostatistics_bicocca_2024_exercises/blob/main/L18/supernova_distances.ipynb) (GPR)
   + Scikit-learn [_GaussianProcessRegressor_](https://scikit-learn.org/stable/modules/gaussian_process.html#) user guide
+  + Scikit-learn [kernels](https://scikit-learn.org/stable/modules/gaussian_process.html#kernels-for-gaussian-processes) for GPR user guide
