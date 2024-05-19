@@ -69,3 +69,8 @@ Github viewer might have some problem at visualizing some outputs in some notebo
 + [Supernova distances](https://github.com/F3Solid/astrostatistics_bicocca_2024_exercises/blob/main/L18/supernova_distances.ipynb) (GPR)
   + Scikit-learn [_GaussianProcessRegressor_](https://scikit-learn.org/stable/modules/gaussian_process.html#) user guide
   + Scikit-learn [kernels](https://scikit-learn.org/stable/modules/gaussian_process.html#kernels-for-gaussian-processes) for GPR user guide
+
+## [L19](https://github.com/dgerosa/astrostatistics_bicocca_2024/blob/main/lectures/L19_classification.ipynb) Classification
++ [Galaxies vs quasars]()
+  + Scikit-learn [roc_curve](https://scikit-learn.org/stable/modules/model_evaluation.html#roc-metrics) and [precision_recall_curve](https://scikit-learn.org/stable/modules/model_evaluation.html#precision-recall-f-measure-metrics) user guide
+  + Refer to the [Supervised learning](https://scikit-learn.org/stable/supervised_learning.html) section of the Scikit-learn site for information on the classifiers
