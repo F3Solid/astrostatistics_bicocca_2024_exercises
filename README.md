@@ -74,3 +74,7 @@ Github viewer might have some problem at visualizing some outputs in some notebo
 + [Galaxies vs quasars](https://github.com/F3Solid/astrostatistics_bicocca_2024_exercises/blob/main/L19/galaxies_vs_quasars.ipynb) (Classifiers)
   + Scikit-learn [roc_curve](https://scikit-learn.org/stable/modules/model_evaluation.html#roc-metrics) and [precision_recall_curve](https://scikit-learn.org/stable/modules/model_evaluation.html#precision-recall-f-measure-metrics) user guide
   + Refer to the [Supervised learning](https://scikit-learn.org/stable/supervised_learning.html) section of the Scikit-learn site for information on the classifiers
+
+## [L20](https://github.com/dgerosa/astrostatistics_bicocca_2024/blob/main/lectures/L20_classification.ipynb) Classification
++ [GW sources classification](https://github.com/F3Solid/astrostatistics_bicocca_2024_exercises/blob/main/L20/GW_classification.ipynb)
+  + The data file for this exercise is large, so it has been compressed into an archive inside the _data_ folder
