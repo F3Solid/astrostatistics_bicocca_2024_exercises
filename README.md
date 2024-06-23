@@ -1,8 +1,6 @@
 # Repository for Astrostatistics and Machine Learning Course (2024)
 Original material at: https://github.com/dgerosa/astrostatistics_bicocca_2024
 
-Github viewer might have some problem at visualizing some outputs in some notebooks. If this happens use [nbviewer](https://nbviewer.org/) to avoid the problem. This might be the case for Scikit-learn outputs.
-
 ## [L02](https://github.com/dgerosa/astrostatistics_bicocca_2024/blob/main/lectures/L02_probability.ipynb) Probability
 + [Monty Hall Problem](L02/monty-hall-problem.ipynb)
   + Mathematical solution at this [link](https://math.stackexchange.com/questions/608957/monty-hall-problem-extended)
@@ -77,4 +75,8 @@ Github viewer might have some problem at visualizing some outputs in some notebo
 
 ## [L20](https://github.com/dgerosa/astrostatistics_bicocca_2024/blob/main/lectures/L20_classification.ipynb) Classification
 + [GW sources classification](https://github.com/F3Solid/astrostatistics_bicocca_2024_exercises/blob/main/L20/GW_classification.ipynb)
-  + The data file for this exercise is large, so it has been compressed into an archive inside the _data_ folder
+
+## [L22](https://github.com/dgerosa/astrostatistics_bicocca_2024/blob/main/lectures/L22_deeplearning.ipynb) Deep Learning
++ [Galaxies vs quasars]()
+  + Documentations: [TensorFlow](https://www.tensorflow.org/api_docs/python/tf), [Keras](https://keras.io/api/)
+  + Quick [introduction](https://www.tensorflow.org/tutorials) to Neural Networks with TensorFlow
