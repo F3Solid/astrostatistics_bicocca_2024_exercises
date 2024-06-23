@@ -77,6 +77,6 @@ Original material at: https://github.com/dgerosa/astrostatistics_bicocca_2024
 + [GW sources classification](https://github.com/F3Solid/astrostatistics_bicocca_2024_exercises/blob/main/L20/GW_classification.ipynb)
 
 ## [L22](https://github.com/dgerosa/astrostatistics_bicocca_2024/blob/main/lectures/L22_deeplearning.ipynb) Deep Learning
-+ [Galaxies vs quasars]()
++ [Galaxies vs quasars](https://github.com/F3Solid/astrostatistics_bicocca_2024_exercises/blob/main/L22/galaxies_vs_quasars.ipynb)
   + Documentations: [TensorFlow](https://www.tensorflow.org/api_docs/python/tf), [Keras](https://keras.io/api/)
   + Quick [introduction](https://www.tensorflow.org/tutorials) to Neural Networks with TensorFlow
