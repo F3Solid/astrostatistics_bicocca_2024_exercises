@@ -9,6 +9,7 @@
         "Keras",
         "MCMC",
         "Montecarlo",
+        "Nadaraya",
         "Scikit",
         "sklearn",
         "Upsampling"
