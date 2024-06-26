@@ -10,6 +10,7 @@
         "MCMC",
         "Montecarlo",
         "Nadaraya",
+        "quantiles",
         "Scikit",
         "sklearn",
         "Upsampling"
